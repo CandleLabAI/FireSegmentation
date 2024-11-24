@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+lightning_logs/
+runs
+*.pt
+.ipynb_checkpoints/
+.vscode/
+*.png
+*.jpg
+*.npy
+*.txt
+out/
+.DS_Store
+.idea/

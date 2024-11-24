@@ -1,0 +1,8 @@
+path: /Users/neonvs/Coding/Machine Learning/FireSegmentation/notebooks/../fire_detection_dataset  # dataset root dir
+train: train/images  # train images
+val: val/images  # val images
+test: test/images  # test images
+
+# Classes
+names:
+    0: fire  # fire class
