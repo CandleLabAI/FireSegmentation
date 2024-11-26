@@ -1,0 +1,11 @@
+torch
+torchvision
+evaluate
+Pillow
+transformers
+pytorch-lightning
+numpy
+pyyaml
+opencv-python
+tqdm
+ultralytics
